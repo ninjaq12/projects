@@ -11,6 +11,7 @@ namespace BinaryGap
             Solution(33);
             Solution(34);
             Solution(3432);
+            Solution(3433);
 
             Console.ReadLine();
 
